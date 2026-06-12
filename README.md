@@ -11,11 +11,15 @@
 ![Proxy](https://img.shields.io/badge/proxy-HTTP%20%7C%20SOCKS5-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-[![Скачать для Windows](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows%20%20.exe-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/joker-host/Claude-Proxy-Tunnel-Releases/releases/latest/download/Claude-Proxy-Tunnel-Windows.exe)
-&nbsp;&nbsp;
-[![Скачать для macOS](https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS%20%20.dmg-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/joker-host/Claude-Proxy-Tunnel-Releases/releases/latest/download/Claude-Proxy-Tunnel-macOS.dmg)
+<table align="center"><tr><td align="center">
 
-<sub>Прямое скачивание последней версии · [все версии и заметки →](../../releases/latest)</sub>
+### 📥 Скачать последнюю версию
+
+<a href="https://github.com/joker-host/Claude-Proxy-Tunnel-Releases/releases/latest/download/Claude-Proxy-Tunnel-Windows.exe"><img height="58" alt="Скачать для Windows (.exe)" src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20Windows-.exe-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5IDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEzLjA1MS0xLjM1MSIvPjwvc3ZnPg%3D%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/joker-host/Claude-Proxy-Tunnel-Releases/releases/latest/download/Claude-Proxy-Tunnel-macOS.dmg"><img height="58" alt="Скачать для macOS (.dmg)" src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20macOS-.dmg-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+
+<sub>По клику сразу скачается нужный файл · <a href="../../releases/latest">все версии и заметки о выпуске →</a></sub>
+
+</td></tr></table>
 
 </div>
 
